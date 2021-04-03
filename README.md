@@ -1,2 +1,1 @@
-# MetricSpaces
- Notes on Metric Spaces
+# Notes on Metric Spaces
